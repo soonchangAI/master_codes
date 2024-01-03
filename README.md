@@ -2,6 +2,9 @@
 
 This is the code repository for Poh Soon Chang master research titled Anomaly Detection Algorithms for Home Activities Data
 
+Machine Learning Algorithms: KNN, HMM, LSTM for sequence anomaly detection
+Programming language: Python  
+Python libraries: Pandas, Scikit Learn, Keras
 ## Citation
 ```
 @INPROCEEDINGS{8729168,
