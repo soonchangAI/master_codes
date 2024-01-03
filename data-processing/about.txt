@@ -1,0 +1,11 @@
+Codes:
+1) preprocess_data.py	:'data.txt' to 'cleanedData.csv'
+			from original dataset, remove some noise
+2) convert_dataset.py 	:'cleanedData.csv' to 'data.csv'
+			further remove some noise and saved in standard format
+3) processing_lstm.py   :'data.csv' to 'data_lstm.txt'
+
+Files:
+data.txt
+cleanedData.csv
+data.csv
